@@ -1,6 +1,1 @@
-{
-  "versionCode": 4,
-  "versionName": "1.1.2",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.1.2/app-phone.apk",
-  "notes": "New: folders inside Favorites for your live channels, subtitles for movies and shows, in-app updates, and the new logo."
-}
+{"versionCode": 5, "versionName": "1.1.3", "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.1.3/app-phone.apk", "notes": "Subtitles now fetch from Home rails, Search can pick a playlist, and favouriting a channel offers its folder right away."}
