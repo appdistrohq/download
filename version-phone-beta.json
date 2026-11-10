@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.1.6",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.1.6/app-phone.apk",
-  "notes": "Landscape guide is now side-by-side: guide left, player top-right, channel info under the player. No search row in landscape; portrait unchanged."
+  "versionCode": 9,
+  "versionName": "1.1.7",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.1.7/app-phone.apk",
+  "notes": "• New: 'All' category at the top of Movies and TV Shows — every title, A to Z\n• New: in landscape, the guide under the player now scrolls through upcoming shows channel by channel, in sidebar order\n• Adult titles no longer appear in Continue Watching\n• Hide any category: press and hold it in the categories drawer; unhide from the playlist's hidden items"
 }
