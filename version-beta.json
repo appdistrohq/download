@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "2.1.2",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/v2.1.2/app.apk",
-  "notes": "Beta: update-channel switch, hero fix, player drill-up, guide preview pinned with sound, QR page retheme."
+  "versionCode": 17,
+  "versionName": "2.1.3",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/v2.1.3/app.apk",
+  "notes": "Categories cursor fix, Back lands on watched channel, press=play / double=fullscreen / hold=menu, Continue Watching split + no adult, hero trailers, adult categories visible + hide-your-own."
 }
