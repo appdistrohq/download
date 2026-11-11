@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.2.1",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.2.1/app-phone.apk",
-  "notes": "• Series network tabs fixed: every show is now filed under its real production network (from TMDB), most-watched first, up to 100 per tab\n• Skip Intro / Skip Credits: the lookup now uses the show's TMDB id, a missed lookup no longer sticks for the rest of the session, and it retries once the episode's runtime is known\n• Skip now also works when an episode plays in an external player"
+  "versionCode": 16,
+  "versionName": "1.2.2",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.2.2/app-phone.apk",
+  "notes": "• Sports Centre now lives in the bottom tray — tap the ball icon (it's out of the top tab strip)\n• Back now steps back inside Sports (team → league → hub) instead of closing Sports altogether\n• League pages now list their teams — tap a team for its games, Find channels, and a follow switch"
 }
