@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.1.8",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.1.8/app-phone.apk",
-  "notes": "• Fixed: landscape guide under the player now runs in order — your channel, the rest of its category, then the next categories in sidebar order\n• No more jumping back to the first channels in the lineup\n• Hidden categories stay out of the scroll"
+  "versionCode": 11,
+  "versionName": "1.1.9",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.1.9/app-phone.apk",
+  "notes": "• Guide now runs in sidebar category order and opens on your playing channel — scrolling down goes to the next categories, no jump back to the first channels\n• Live TV shelves are now list rows: channel logo, name, current show with start time and a red progress bar\n• Removed the 'Unlabeled Movies' category — its titles are all in All"
 }
