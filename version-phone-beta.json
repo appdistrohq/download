@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.2.0",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.2.0/app-phone.apk",
-  "notes": "• New: Sports tab — follow your leagues and teams, see today's events, and tap one to get every live channel in your playlists carrying it\n• No scores anywhere — it's a channel finder only\n• Listings from TheSportsDB, matched against your channels and guide data"
+  "versionCode": 15,
+  "versionName": "1.2.1",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.2.1/app-phone.apk",
+  "notes": "• Series network tabs fixed: every show is now filed under its real production network (from TMDB), most-watched first, up to 100 per tab\n• Skip Intro / Skip Credits: the lookup now uses the show's TMDB id, a missed lookup no longer sticks for the rest of the session, and it retries once the episode's runtime is known\n• Skip now also works when an episode plays in an external player"
 }
