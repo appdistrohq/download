@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.1.11",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.1.11/app-phone.apk",
-  "notes": "• 'Unlabeled Series' category removed — its shows are all in All\n• Adult channels no longer appear in the Home recently-watched live row\n• New: Skip Intro and Skip Credits buttons for series episodes (auto-skip is optional in Settings → Playback)"
+  "versionCode": 14,
+  "versionName": "1.2.0",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.2.0/app-phone.apk",
+  "notes": "• New: Sports tab — follow your leagues and teams, see today's events, and tap one to get every live channel in your playlists carrying it\n• No scores anywhere — it's a channel finder only\n• Listings from TheSportsDB, matched against your channels and guide data"
 }
