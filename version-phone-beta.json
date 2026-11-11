@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.1.7",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.1.7/app-phone.apk",
-  "notes": "• New: 'All' category at the top of Movies and TV Shows — every title, A to Z\n• New: in landscape, the guide under the player now scrolls through upcoming shows channel by channel, in sidebar order\n• Adult titles no longer appear in Continue Watching\n• Hide any category: press and hold it in the categories drawer; unhide from the playlist's hidden items"
+  "versionCode": 10,
+  "versionName": "1.1.8",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.1.8/app-phone.apk",
+  "notes": "• Fixed: landscape guide under the player now runs in order — your channel, the rest of its category, then the next categories in sidebar order\n• No more jumping back to the first channels in the lineup\n• Hidden categories stay out of the scroll"
 }
