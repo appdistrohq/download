@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "2.1.4",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/v2.1.4/app.apk",
-  "notes": "Ronin TV 2.1.4\n- Home, Movies and Shows redesigned: fullscreen backdrop cycling the TMDB Top 10, with your category rows underneath\n- Live TV guide redesigned: preview screen top-left, guide underneath\n- Hold Back in the guide to take the preview channel straight to fullscreen\n- New Trailer button beside Play — trailers now play fullscreen; the mini trailer player is gone\n- Favourite folders: organise favourite channels into folders\n- Hold a channel for favourite and add-to-folder options\n- Hold a category to hide it, create a folder, or place the whole category in a folder\n- Fixed: hold menus not opening with the remote\n- Fixed: Back from fullscreen lands on the channel you were watching\n- Fixed: delay when returning from fullscreen to the guide\n- Fixed: constant crashing\n- Series tabs now file shows by their real production network — most watched first, top 100 per tab\n- Continue Watching split: movies in Movies, shows in Series; adult titles never appear there\n- Adult categories show like any other: hold to hide, unhide in Settings → Channels"
+  "versionCode": 19,
+  "versionName": "2.1.5",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/v2.1.5/app.apk",
+  "notes": "Ronin TV 2.1.5\n- Fixes the freezing and crashing on TV\n- Guide stops refreshing in the background while you watch\n- Movies and TV Shows load faster and use less memory\n- Series tabs load faster, most-watched first\n- Home backdrop changes less often and uses less memory\n- Trailer only loads when you press the Trailer button\n- Hold menus no longer trigger by accident"
 }
