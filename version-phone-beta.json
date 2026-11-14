@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "1.2.5",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.2.5/app-phone.apk",
-  "notes": "• Sports: league pages now list ALL teams (NBA 30, NHL 32, Premier League 20)\n• Sports: League Pass / Center Ice / ESPN+ games now find their channel — pool feeds matched by name or their own guide listing\n• Sports: team short codes and name variants now match (IND @ NYK, VGK, Las Vegas)"
+  "versionCode": 20,
+  "versionName": "1.2.6",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.2.6/app-phone.apk",
+  "notes": "• Sports: league team lists now build fully and are saved on your phone (first open of a league builds in the background, then it's instant)\n• Sports: team pages show their real upcoming games (next 30 days), not just 1\n• Sports: more channels found for games with foreign-only listings — guide sweep + channel-name fixes (e.g. YES Network)"
 }
