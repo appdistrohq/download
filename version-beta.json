@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "2.1.5",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/v2.1.5/app.apk",
-  "notes": "Ronin TV 2.1.5\n- Fixes the freezing and crashing on TV\n- Guide stops refreshing in the background while you watch\n- Movies and TV Shows load faster and use less memory\n- Series tabs load faster, most-watched first\n- Home backdrop changes less often and uses less memory\n- Trailer only loads when you press the Trailer button\n- Hold menus no longer trigger by accident"
+    "versionCode": 20,
+    "versionName": "2.1.6",
+    "apkUrl": "https://github.com/appdistrohq/download/releases/download/v2.1.6/app.apk",
+    "notes": "• Channels and guide open instantly from what's saved on your TV — the guide fills in behind, no blocking loading screen\n• Only your active playlist loads and syncs — the other stays saved, switch anytime in Settings\n• Movies & Shows load far faster and use much less memory\n• Shows appear right away — network tabs fill in behind instead of spinning\n• Backdrops and posters in full quality, up to 1920 wide, full colour\n• Trailer button reachable again — Play, Trailer, Details in order\n• Hold menus answer at the hold, no extra delay\n• Syncs take turns at launch instead of colliding\n• Any crash is now recorded — Settings → About → Last crash"
 }
