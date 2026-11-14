@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "1.2.4",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.2.4/app-phone.apk",
-  "notes": "• Back from a movie or show returns to its category\n• Sports: league pages list all teams\n• Sports: future games show their channels when tapped\n• Sports: followed leagues show all of today's games; followed teams show upcoming games (next 14 days)\n• Bottom bar: Home · Live TV · Movies · Series · Sports · Profile — Library removed\n• Favourites folders now in Movies and Series too — long-press a title to file it"
+  "versionCode": 19,
+  "versionName": "1.2.5",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.2.5/app-phone.apk",
+  "notes": "• Sports: league pages now list ALL teams (NBA 30, NHL 32, Premier League 20)\n• Sports: League Pass / Center Ice / ESPN+ games now find their channel — pool feeds matched by name or their own guide listing\n• Sports: team short codes and name variants now match (IND @ NYK, VGK, Las Vegas)"
 }
