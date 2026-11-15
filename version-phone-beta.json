@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "1.2.7",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.2.7/app-phone.apk",
-  "notes": "• Sports now runs on ESPN data: full team lists instantly (all 30 NBA teams, no waiting), full game schedules\n• Sports: real North American broadcasters (FanDuel, TSN, NBA TV, NHL Network, ESPN+) feed channel matching — more channels found per game\n• Sports: leagues ESPN doesn't carry keep the previous source as backup"
+  "versionCode": 22,
+  "versionName": "1.2.8",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.2.8/app-phone.apk",
+  "notes": "• Sports: the guide (EPG) is now scoured for every game across all your channels — channels are found even when a game has no listing\n• Sports: new Following section on the Sports home — your leagues and teams with their next games; team pages no longer mix in other leagues' games\n• Series: network tabs (Netflix, HBO, Prime Video, Disney+, Hulu) now show TMDB's top 50 trending shows for each network that your playlist carries — they load fast now"
 }
