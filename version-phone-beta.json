@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "1.2.6",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.2.6/app-phone.apk",
-  "notes": "• Sports: league team lists now build fully and are saved on your phone (first open of a league builds in the background, then it's instant)\n• Sports: team pages show their real upcoming games (next 30 days), not just 1\n• Sports: more channels found for games with foreign-only listings — guide sweep + channel-name fixes (e.g. YES Network)"
+  "versionCode": 21,
+  "versionName": "1.2.7",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.2.7/app-phone.apk",
+  "notes": "• Sports now runs on ESPN data: full team lists instantly (all 30 NBA teams, no waiting), full game schedules\n• Sports: real North American broadcasters (FanDuel, TSN, NBA TV, NHL Network, ESPN+) feed channel matching — more channels found per game\n• Sports: leagues ESPN doesn't carry keep the previous source as backup"
 }
