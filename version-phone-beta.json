@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "1.2.9",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.2.9/app.apk",
-  "notes": "• Fixed: Home hero only features movies and shows now — no more live channels up top, and it reloads properly if a rail comes up empty\n• Sports: event pages check the listings already on your phone first, so a slow listings source can't blank the page\n• Sports: channels for tomorrow's games are found more often — guide data is now fetched for the specific game when it's past the normal guide window\n• Sports: soccer channels like OneSoccer are now searched for soccer matches\n• Sports: when no channels are found, the page now says why — no listings yet, guide doesn't reach the game yet, or not carried\n• Series: trending shows still lead each network tab, and tabs now fill up to 50 with the network's most popular shows your playlists carry"
+  "versionCode": 24,
+  "versionName": "1.3.0",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.0/app.apk",
+  "notes": "• Sports: your panel's guide is now the main source for finding channels — the guide lookup is fixed and Sports loads the guide itself\n• Sports: NHL and MLB games now use the leagues' official listings (for example TSN4 for Leafs games)\n• Sports: channels named for the game itself (event feeds) now show up\n• Sports: TSN, RDS and NBA TV channels are checked directly, and guide reads go deeper\n• Sports: if a page is still empty, the small print now shows what each source found\n• Series: network tabs fill up properly now — the big catalogue loads first, with trending shows on top"
 }
