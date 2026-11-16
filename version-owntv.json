@@ -1,0 +1,6 @@
+{
+  "versionCode": 100,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/v1.0.0-owntv/app-owntv.apk",
+  "notes": "- First OwnTV-based Ronin beta\n- Ronin name, black/red/white theme\n- Locked panel: username + password only\n- Both playlists built in\n- Home rails from MDBList\n- Favourites folders\n- Crash record in Settings > About"
+}
