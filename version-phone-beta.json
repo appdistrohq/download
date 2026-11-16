@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "1.2.8",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.2.8/app-phone.apk",
-  "notes": "• Sports: the guide (EPG) is now scoured for every game across all your channels — channels are found even when a game has no listing\n• Sports: new Following section on the Sports home — your leagues and teams with their next games; team pages no longer mix in other leagues' games\n• Series: network tabs (Netflix, HBO, Prime Video, Disney+, Hulu) now show TMDB's top 50 trending shows for each network that your playlist carries — they load fast now"
+  "versionCode": 23,
+  "versionName": "1.2.9",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.2.9/app.apk",
+  "notes": "• Fixed: Home hero only features movies and shows now — no more live channels up top, and it reloads properly if a rail comes up empty\n• Sports: event pages check the listings already on your phone first, so a slow listings source can't blank the page\n• Sports: channels for tomorrow's games are found more often — guide data is now fetched for the specific game when it's past the normal guide window\n• Sports: soccer channels like OneSoccer are now searched for soccer matches\n• Sports: when no channels are found, the page now says why — no listings yet, guide doesn't reach the game yet, or not carried\n• Series: trending shows still lead each network tab, and tabs now fill up to 50 with the network's most popular shows your playlists carry"
 }
