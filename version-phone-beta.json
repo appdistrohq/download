@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "1.3.0",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.0/app.apk",
-  "notes": "• Sports: your panel's guide is now the main source for finding channels — the guide lookup is fixed and Sports loads the guide itself\n• Sports: NHL and MLB games now use the leagues' official listings (for example TSN4 for Leafs games)\n• Sports: channels named for the game itself (event feeds) now show up\n• Sports: TSN, RDS and NBA TV channels are checked directly, and guide reads go deeper\n• Sports: if a page is still empty, the small print now shows what each source found\n• Series: network tabs fill up properly now — the big catalogue loads first, with trending shows on top"
+  "versionCode": 25,
+  "versionName": "1.3.1",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.1/app.apk",
+  "notes": "• Sports: upcoming games now find their channels — a sports guide is kept for a full week instead of only the near window\n• Sports: NHL and MLB listing dates fixed — evening games now match their TSN / Sportsnet channels\n• Series: network tabs now fill up to 50 titles instead of stopping early\n• Live TV: the red LIVE pill over the video is gone when the guide is on screen, and gone in portrait"
 }
