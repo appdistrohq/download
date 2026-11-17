@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "1.3.1",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.1/app.apk",
-  "notes": "• Sports: upcoming games now find their channels — a sports guide is kept for a full week instead of only the near window\n• Sports: NHL and MLB listing dates fixed — evening games now match their TSN / Sportsnet channels\n• Series: network tabs now fill up to 50 titles instead of stopping early\n• Live TV: the red LIVE pill over the video is gone when the guide is on screen, and gone in portrait"
+  "versionCode": 26,
+  "versionName": "1.3.2",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.2/app.apk",
+  "notes": "• Series: network tabs now hold 51 shows — the grid ends on a full row, no open tile"
 }
