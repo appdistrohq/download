@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "1.3.2",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.2/app-phone.apk",
-  "notes": "• Sports: tap a game to find its channels — live and upcoming games now match channels from your own TV guide\n• Sports: NHL and MLB listings included — games now match their TSN and Sportsnet channels\n• Series: network tabs (Netflix, HBO, Prime Video, Disney+, Hulu) now fill up to 51 shows\n• Live TV: the red LIVE pill over the video is gone when the guide is on screen, and gone in portrait"
+  "versionCode": 27,
+  "versionName": "1.3.3",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.3/app-phone.apk",
+  "notes": "• Search: the search button now stays visible in landscape — top-right, on Home, Live TV, Movies, Series and Kids"
 }
