@@ -2,5 +2,5 @@
   "versionCode": 28,
   "versionName": "1.3.4",
   "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.4/app.apk",
-  "notes": "- Home: the Live TV tiles row is gone — Home now goes hero, then Continue Watching\n- Home: the app now opens at the top on a cold start"
+  "notes": "• Home: the Live TV tiles row is gone — Home now goes hero, then Continue Watching\n• Home: the app now opens at the top on a cold start"
 }
