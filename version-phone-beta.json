@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "1.3.3",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.3/app.apk",
-  "notes": "• Search: the search button now stays visible in landscape — top-right, on Home, Live TV, Movies, Series and Kids"
+  "versionCode": 28,
+  "versionName": "1.3.4",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.4/app.apk",
+  "notes": "- Home: the Live TV tiles row is gone — Home now goes hero, then Continue Watching\n- Home: the app now opens at the top on a cold start"
 }
