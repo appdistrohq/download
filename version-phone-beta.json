@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "1.3.4",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.4/app.apk",
-  "notes": "• Home: the Live TV tiles row is gone — Home now goes hero, then Continue Watching\n• Home: the app now opens at the top on a cold start"
+  "versionCode": 29,
+  "versionName": "1.3.5",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.5/app.apk",
+  "notes": "• Home: cold open now starts at the top — the saved scroll position from the last session is no longer restored on launch"
 }
