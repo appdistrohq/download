@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "1.3.8",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.8/app.apk",
-  "notes": "• Continue Watching: episodes tapped right after a cold start now play — the app fetches the show's episode list itself instead of needing you to open the show's page first"
+  "versionCode": 33,
+  "versionName": "1.3.9",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.9/app.apk",
+  "notes": "• Cold open: Home now opens at the top — its list state moved above the parts of the app that rebuild during load, and the fix re-arms for every fresh Home instead of firing once\n• Continue Watching: episodes tapped right after a cold start now play — the app fetches the show's episode list itself instead of needing you to open the show's page first"
 }
