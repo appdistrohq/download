@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "1.3.10",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.10/app.apk",
-  "notes": "• Loading screen: the Ronin logo + red loading bar now stay up until Home is fully loaded — no more opening onto Continue Watching tiles first\n• Continue Watching: episodes tapped right after a cold start now play — the app fetches the show's episode list itself instead of needing you to open the show's page first"
+  "versionCode": 35,
+  "versionName": "1.3.11",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.11/app.apk",
+  "notes": "• Series theme music: a show's theme song now plays on its series screen, like on TV — toggle in Settings → Playback\n• Live TV: your favourites folders now sit right in the sidebar, under Favorites — tap a folder to see its channels, hold to rename or delete"
 }
