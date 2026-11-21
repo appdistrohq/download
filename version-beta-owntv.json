@@ -1,6 +1,6 @@
 {
   "versionCode": 108,
   "versionName": "1.2.6",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/v1.2.6-owntv/app.apk",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/v1.2.6/app.apk",
   "notes": "• Playlists now inherit the app's server address — if the address ever changes, your existing playlists update automatically, no sign-in again\n• Playlist settings gain a DNS field: leave it on Inherited, or type your own address to override it"
 }
