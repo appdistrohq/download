@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "1.3.3",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.3/app-phone.apk",
-  "notes": "• Search: the search button now stays visible in landscape — top-right, on Home, Live TV, Movies, Series and Kids"
+  "versionCode": 36,
+  "versionName": "1.3.12",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.12/app.apk",
+  "notes": "• Server update: Ronin's server address has changed and the service is restored — if your channels don't load, sign in again with your usual username and password\n• Loading screen: the Ronin logo + red loading bar now stay up until Home is fully loaded — no more opening onto Continue Watching tiles first\n• Cold open: Home now opens at the top, on the hero\n• Continue Watching: episodes tapped right after a cold start now play — the app fetches the show's episode list itself instead of needing you to open the show's page first\n• Series theme music: a show's theme song now plays on its series screen, like on TV — toggle in Settings → Playback\n• Live TV: your favourites folders now sit right in the sidebar, under Favorites — tap a folder to see its channels, hold to rename or delete\n• Home: the Live TV recents row is removed — Continue Watching sits directly under the hero"
 }
