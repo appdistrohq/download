@@ -1,1 +1,6 @@
-{"apkUrl": "https://github.com/appdistrohq/download/releases/download/v1.2.5-owntv/app.apk", "notes": "• RONIN IPTV panel address updated — the old address was shut down; this build uses the new one (same service, same login)\n• Everything else is the same as 1.2.4", "versionCode": 107, "versionName": "1.2.5"}
+{
+  "versionCode": 108,
+  "versionName": "1.2.6",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/v1.2.6-owntv/app.apk",
+  "notes": "• Playlists now inherit the app's server address — if the address ever changes, your existing playlists update automatically, no sign-in again\n• Playlist settings gain a DNS field: leave it on Inherited, or type your own address to override it"
+}
