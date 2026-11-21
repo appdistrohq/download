@@ -1,6 +1,1 @@
-{
-  "versionCode": 100,
-  "versionName": "1.0.0",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/v1.0.0-owntv/app-owntv.apk",
-  "notes": "- First OwnTV-based Ronin beta\n- Ronin name, black/red/white theme\n- Locked panel: username + password only\n- Both playlists built in\n- Home rails from MDBList\n- Favourites folders\n- Crash record in Settings > About"
-}
+{"apkUrl": "https://github.com/appdistrohq/download/releases/download/v1.2.5-owntv/app.apk", "notes": "• RONIN IPTV panel address updated — the old address was shut down; service restored (same login)\n• Download file is now just app.apk\n• Sidebar bottom fixed — More and your profile no longer overlap\n• Favourite folders are back in the Live TV sidebar, under Favorites, and stand out with a red tint\n• Settings screen scrolls all the way down — the VPN card is no longer cut off\n• Sports home shows a Following row with your followed leagues and teams\n• Live TV: pressing Left opens the sidebar directly\n• Holding Back jumps to full screen on the channel that's playing", "versionCode": 107, "versionName": "1.2.5"}
