@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "1.3.14",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.14/app.apk",
-  "notes": "• New: account sign-in — sign in with your account on your own private server (Settings → Account)\n• Sync: your playlists, favourites, library and watch progress now sync between devices signed into your account\n• Private by design: panel passwords and server addresses never leave this device\n• API keys never sync"
+  "versionCode": 39,
+  "versionName": "1.3.15",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.15/app.apk",
+  "notes": "• Fixed: the Account page is now reachable — new Account row in Settings (top of the Account section) for sign in / sign up\n• Includes everything from the 1.3.14 beta: account sync on your own private server — playlists, favourites, library and watch progress\n• Panel passwords and server addresses never leave this device; API keys never sync"
 }
