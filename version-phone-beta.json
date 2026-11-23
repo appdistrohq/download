@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "1.3.13",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.13/app.apk",
-  "notes": "• New Home rail: Trending Movies — the Trakt trending movies chart, matched to what's in your playlist\n• New Home rail: Christmas Movies — a 153-movie Christmas list, matched to what's in your playlist"
+  "versionCode": 38,
+  "versionName": "1.3.14",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.14/app.apk",
+  "notes": "• New: account sign-in — sign in with your account on your own private server (Settings → Account)\n• Sync: your playlists, favourites, library and watch progress now sync between devices signed into your account\n• Private by design: panel passwords and server addresses never leave this device\n• API keys never sync"
 }
