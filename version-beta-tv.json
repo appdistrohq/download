@@ -1,6 +1,6 @@
 {
-  "versionCode": 109,
-  "versionName": "1.2.7",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/v1.2.7/app.apk",
-  "notes": "• Sports home reworked: All shows the leagues and teams you follow; highlight a league or sport to preview its games; each tab shows only its own games\n• Live events: channels now appear — the guide search runs whenever a match's channel list comes up empty\n• Live TV sidebar: Favorites and your folders now sit right above Groups\n• New on Home: Christmas Movies rail\n• Trending Movies rail refreshed with a deeper Trakt trending list"
+  "versionCode": 110,
+  "versionName": "1.2.8",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/v1.2.8/app.apk",
+  "notes": "• Favourites folders now appear in the in-player channel list and the TV Guide category sheet, in the same order as the main sidebar\n• Sports match pages: moving through the channel list no longer changes the preview — press OK to tune a channel, OK again for full screen\n• App updates now resume and retry automatically if the connection drops (fixes failed updates)\n• Stream info no longer shows the provider's server address\n• More menu: the Switch button is now reachable with the remote (press Up from Settings)\n• Local sync messages now say Ronin instead of OwnTV"
 }
