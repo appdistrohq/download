@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "1.3.16",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.16/app.apk",
-  "notes": "• New: Home rails shuffle — every app open deals the movie & TV chart rails in a new order (Continue Watching stays at the top, Live TV Favorites stays last)\n• New rails: IMDb Popular Movies, IMDb Popular Shows and Trakt Trending Shows — 12 chart rails in total"
+  "versionCode": 41,
+  "versionName": "1.3.17",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.17/app.apk",
+  "notes": "• New: \"Account created\" confirmation pop-up after you sign up\n• New: followed leagues and teams in Sports now sync with your account"
 }
