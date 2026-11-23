@@ -1,6 +1,6 @@
 {
     "versionCode": 111,
     "versionName": "1.2.9",
-    "apkUrl": "https://github.com/appdistrohq/download/releases/download/v1.2.9/app.apk",
+    "apkUrl": "https://github.com/appdistrohq/download/releases/download/tv-beta/app.apk",
     "notes": "• New: Account — sign in with the same account as the phone app (More → Account)\n• Playlists sync with your account: sign in on the TV and your playlists show up — panel passwords and server addresses never leave the TV\n• A synced playlist that still needs its password is flagged on the Account page — tap through to Playlists to enter it\n• Delete account is on the Account page too\n• Fixed: the TV screensaver no longer starts while the Guide or Live TV preview is playing"
   }
