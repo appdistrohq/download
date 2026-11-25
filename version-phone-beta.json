@@ -1,6 +1,6 @@
 {
-  "versionName": "1.3.20",
-  "versionCode": 44,
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.20/app.apk",
-  "notes": "• New: after you log in, a playlist that synced from your account now prompts you for its password — the name and username come from your account, only the password is typed\n• The prompt checks the password and finishes setting the playlist up right there; if 2 playlists need it, it asks for the next one"
+  "versionName": "1.3.21",
+  "versionCode": 45,
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.21/app.apk",
+  "notes": "• New: Logs — Settings → About now shows detailed startup, sign-in and sync logs\n• If the app crashes, the crash is saved into Logs automatically so the cause can be read on the next open"
 }
