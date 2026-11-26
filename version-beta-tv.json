@@ -1,6 +1,6 @@
 {
-    "versionCode": 115,
-    "versionName": "1.2.13",
+    "versionCode": 116,
+    "versionName": "1.2.14",
     "apkUrl": "https://github.com/appdistrohq/download/releases/download/tv-beta/app.apk",
-    "notes": "• Multiview is now ON by default — watch 2 or more channels at once: in Live TV, open a channel's menu and choose \"Add to multiview\"\n• You can still turn it off any time: Settings → Watching & recording → Multiview"
+    "notes": "• New: Connections on each playlist's page (Settings → Playlists → tap a playlist): how many connections the line allows, how many the whole line is using now, and how many this TV is using\n• New: Your devices in More → Account — every TV and phone signed into your Ronin account, with when each was last seen"
 }
