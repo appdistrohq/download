@@ -1,6 +1,6 @@
 {
-  "versionName": "1.3.24",
-  "versionCode": 48,
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.24/app.apk",
-  "notes": "• Change: the loading screen now waits until Home is fully loaded — hero and every rail — before it lifts, so nothing pops in after\n• Safety cap is 30 seconds if a load ever hangs"
+  "versionName": "1.3.25",
+  "versionCode": 49,
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.25/app.apk",
+  "notes": "• New: Copy logs button — Settings → About → Logs, tap the row, then Copy logs\n• Diagnostic: the log now records exactly what Home had loaded when the loading screen lifted — send the log to Muse if rails still pop in"
 }
