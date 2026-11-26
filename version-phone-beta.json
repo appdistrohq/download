@@ -1,6 +1,6 @@
 {
-  "versionName": "1.3.25",
-  "versionCode": 49,
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.25/app.apk",
-  "notes": "• New: Copy logs button — Settings → About → Logs, tap the row, then Copy logs\n• Diagnostic: the log now records exactly what Home had loaded when the loading screen lifted — send the log to Muse if rails still pop in"
+  "versionName": "1.3.26",
+  "versionCode": 50,
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.26/app.apk",
+  "notes": "• Fix: the loading screen lifted after 99 ms onto an empty Home — a startup check counted \"playlists not picked yet\" as \"nothing to load\". It now waits for the real load to finish\n• Copy logs button from 1.3.25 is included"
 }
