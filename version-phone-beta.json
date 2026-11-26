@@ -1,6 +1,6 @@
 {
-  "versionName": "1.3.22",
-  "versionCode": 46,
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.22/app.apk",
-  "notes": "• Fix: if the app crashed, it now opens straight to the crash log so the cause can be read\n• Tap Continue on that screen to go into the app"
+  "versionName": "1.3.23",
+  "versionCode": 47,
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.23/app.apk",
+  "notes": "• Fix: crash on open — a database setup step ran before its table existed on a fresh install / after a data clear, and the app died as Home loaded\n• The crash log screen stays, in case anything else ever crashes"
 }
