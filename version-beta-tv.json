@@ -1,6 +1,6 @@
 {
-    "versionCode": 113,
-    "versionName": "1.2.11",
+    "versionCode": 114,
+    "versionName": "1.2.12",
     "apkUrl": "https://github.com/appdistrohq/download/releases/download/tv-beta/app.apk",
-    "notes": "• Account now matches the phone app: an \"Account created\" pop-up confirms your sign-up\n• After you log in, you're prompted to add the password for any synced playlist that still needs one\n• New: \"Forgot password?\" on the sign-in screen — sends a password reset email\n• Signing in never creates a second profile, and playlists already on the TV go up to your account"
+    "notes": "• New: Sign in with phone — on the sign-in screen tap \"Sign in with phone\", open the page on your phone, sign in there and enter the code shown on the TV\n• Email + password sign-in with the remote is unchanged\n• Guide fix: the programme description at the top now changes with the channel instead of lagging a channel behind"
 }
