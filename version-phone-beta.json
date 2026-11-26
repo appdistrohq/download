@@ -1,6 +1,6 @@
 {
-  "versionName": "1.3.21",
-  "versionCode": 45,
-  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.21/app.apk",
-  "notes": "• New: Logs — Settings → About now shows detailed startup, sign-in and sync logs\n• If the app crashes, the crash is saved into Logs automatically so the cause can be read on the next open"
+  "versionName": "1.3.22",
+  "versionCode": 46,
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.22/app.apk",
+  "notes": "• Fix: if the app crashed, it now opens straight to the crash log so the cause can be read\n• Tap Continue on that screen to go into the app"
 }
