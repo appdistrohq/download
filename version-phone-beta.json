@@ -1,6 +1,6 @@
 {
   "versionName": "1.3.30",
   "versionCode": 54,
-  "apkUrl": "https://github.com/ronin767oss/ronin-iptv/releases/download/build-output/androidApp-full-arm64-v8a-release.apk",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/download/phone-v1.3.30/app.apk",
   "notes": "• Home now remembers its rails: after the first full load, your rails are saved on the phone\n• Cold opens after that show the complete Home right away, and refresh in the background\n• First open on this build still does the full load once (that is what saves the rails)"
 }
